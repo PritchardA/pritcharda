@@ -1,8 +1,7 @@
-# Welcome to my profile
-- My name is Anthony
-- I am an aspiring Cybersecurity professional with a passion for all things IT.
-- I have dipped my hands into a vast number of different practices and fields within the industry.
-- I like to learn new things, so many of my repositories may be all over the place.
+# Welcome to The Mission.
+- What is The Mission?
+- The Mission can be anything, meaning it is also everything.
+- Always place The Mission first.
 
 <!---
 the-mission-ap/the-mission-ap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
