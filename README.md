@@ -1,6 +1,7 @@
 # Welcome to The Mission.
 - What is The Mission?
-- The Mission can be anything, meaning it is also everything.
+- The Mission is intrinsic to life.
+- The Mission is life.
 - Always place The Mission first.
 
 <!---
